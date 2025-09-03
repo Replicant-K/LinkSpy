@@ -23,7 +23,7 @@ LinkSpy is a Flask-based web application designed to capture detailed device and
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/LinkSpy.git
+   git clone https://github.com/Replicant-K/LinkSpy.git
    cd LinkSpy
    ```
 
